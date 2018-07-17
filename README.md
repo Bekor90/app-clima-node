@@ -5,7 +5,8 @@ Aplicación que permite obtener la temperatura de un lugar
 
 Recuerda ejecutar el comando para instalar los paquetes necesarios: npm install
 
+comando para ejecutar la aplicación: node app -d "ciudad pais"
+
 ## Ejemplo:
 
-'''''''''''
-comando para ejecutar la aplicación: node app -d "ciudad pais"
+node app -d "Cali Colombia"
