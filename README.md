@@ -1,4 +1,4 @@
-## Aplicacion de Temperatura 
+## Aplicación de Temperatura 
 
 
 Aplicación que permite obtener la temperatura de un luga, consumiendo un servicio rest
