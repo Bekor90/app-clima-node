@@ -1,7 +1,7 @@
-## Aplicacion del Temperatura 
+## Aplicacion de Temperatura 
 
 
-Aplicación que permite obtener la temperatura de un lugar
+Aplicación que permite obtener la temperatura de un luga, consumiendo un servicio rest
 
 Recuerda ejecutar el comando para instalar los paquetes necesarios: npm install
 
